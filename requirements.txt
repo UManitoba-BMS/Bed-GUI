@@ -1,0 +1,10 @@
+numpy
+multiprocessing
+matplotlib
+pyvisa
+pyserial
+tkinter
+datetime
+time
+threading
+pickle
